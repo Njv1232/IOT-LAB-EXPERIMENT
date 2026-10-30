@@ -1,6 +1,4 @@
-# IoT & Applications — PEMRT525
-## Lab Experiments | Batch MR 2K24 | S5 | JECC
-### Department of Mechatronics Engineering | Jyothi Engineering College (Autonomous)
+# IoT & Applications 
 
 ---
 
