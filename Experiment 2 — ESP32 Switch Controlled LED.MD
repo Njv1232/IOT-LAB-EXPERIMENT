@@ -1,4 +1,4 @@
-## Experiment 2 — ESP32 Switch Controlled LED
+#Experiment 2 — ESP32 Switch Controlled LED
 
 **Aim:** To interface a push-button switch with ESP32 GPIO and control an LED based on switch input.
 
